@@ -108,12 +108,12 @@ def preprocess(ls):
     return df
 
 app = FastAPI()
+model = ClassificationModel( "xlmroberta", "model", use_cuda = False)
 
 def predict(df):
     pred, prob = model.predict(df)
     result =  {'label': pred, 'probability': softmax(prob, axis = 1)}
     return result
-
 
 @app.get("/")
 async def read_root():
@@ -127,11 +127,6 @@ def predict_query(msg: str):
     return predict(df)    
 
 if __name__ == "__main__":
-    print("import libs...")
-
-    model = ClassificationModel( "xlmroberta", "model", use_cuda = False)
-    print("import model...")
-
     #ex = ["Bò đeo nơ ngốc nghếch"]
     # "Bò đeo nơ ngốc nghếch",
     # "Cộng sản là bọn bán nước hại dân",
