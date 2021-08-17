@@ -1,10 +1,10 @@
 scipy==1.4.1
 --find-links https://download.pytorch.org/whl/torch_stable.html
-torch==1.6.0+cpu
+torch==1.4.0+cpu
 uvicorn==0.15.0
 requests==2.22.0
 pandas==1.2.5
-underthesea==1.2.3
+underthesea
 numpy==1.18.1
 simpletransformers==0.61.13
 fastapi==0.68.0
