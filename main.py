@@ -107,6 +107,24 @@ def preprocess(ls):
 
     return df
 
+app = FastAPI()
+
+def predict(df):
+    pred, prob = model.predict(df)
+    result =  {'label': pred, 'probability': softmax(prob, axis = 1)}
+    return result
+
+
+@app.get("/")
+async def read_root():
+    return {"message": "Subscribe to @1littlecoder"}
+
+
+@app.get('/query/{msg}')
+def predict_query(msg: str):
+    df = preprocess([msg])
+    # print("preprocess: ", df) 
+    return predict(df)    
 
 if __name__ == "__main__":
     print("import libs...")
@@ -127,25 +145,8 @@ if __name__ == "__main__":
 
     #print(predict(ex))
 
-    app = FastAPI()
-
-    def predict(df):
-        pred, prob = model.predict(df)
-        result =  {'label': pred, 'probability': softmax(prob, axis = 1)}
-        return result
+    
 
 
-    @app.get("/")
-    async def read_root():
-        return {"message": "Subscribe to @1littlecoder"}
-
-
-    @app.get('/query/{msg}')
-    def predict_query(msg: str):
-        df = preprocess([msg])
-        # print("preprocess: ", df) 
-        return predict(df)
-
-
-    #uvicorn.run(app, host="0.0.0.0", port=8000)
+    uvicorn.run(app, host="0.0.0.0", port=8000)
    
