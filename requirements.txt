@@ -1,6 +1,6 @@
 scipy==1.4.1
 --find-links https://download.pytorch.org/whl/torch_stable.html
-torch==1.7.0+cpu
+torch==1.9.0+cpu
 transformers
 click==7.1.2
 tokenizers==0.10.1
