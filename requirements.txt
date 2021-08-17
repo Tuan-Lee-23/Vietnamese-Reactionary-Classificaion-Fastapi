@@ -4,7 +4,6 @@ torch==1.9.0
 transformers
 click==7.1.2
 tokenizers==0.9.3
-sentenpiece
 uvicorn==0.15.0
 requests==2.22.0
 pandas==1.2.5
