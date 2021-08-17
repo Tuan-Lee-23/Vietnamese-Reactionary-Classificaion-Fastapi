@@ -1,0 +1,16 @@
+scipy==1.4.1
+--find-links https://download.pytorch.org/whl/torch_stable.html
+torch==1.9.0+cpu
+uvicorn==0.15.0
+requests==2.22.0
+pandas==1.2.5
+underthesea==1.2.3
+numpy==1.18.1
+simpletransformers==0.61.13
+fastapi==0.68.0
+aiofiles==0.6.0
+python-multipart==0.0.5
+jinja2==2.11.2
+gunicorn==20.0.4
+uvloop
+httptools

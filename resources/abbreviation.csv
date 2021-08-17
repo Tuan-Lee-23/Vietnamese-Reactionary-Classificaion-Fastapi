@@ -1,0 +1,832 @@
+,viet tat_x,mean,viet tat_y,_merge
+0,ABC,Công ty Truyền thông ABC,,left_only
+1,ADB,Ngân hàng Phát triển châu Á,,left_only
+2,ADN,AND,,left_only
+3,ANĐT,an ninh điều tra,,left_only
+4,ATGT,An toàn Giao thông,,left_only
+5,ATM,Máy rút tiền tự động,,left_only
+6,ATNĐ,áp thấp nhiệt đới,,left_only
+7,ATTT,An toàn Trật tự,,left_only
+8,ATTTGT,An toàn Trật tự Giao thông,,left_only
+9,ATVSTP,an toàn vệ sinh thực phẩm,,left_only
+10,BBCVT,Bộ Bưu chính Viễn thông,,left_only
+11,BBT,Ban biên tập,,left_only
+13,BCĐ,Ban chỉ đạo,,left_only
+14,BCĐĐMĐH,Ban chỉ đạo đổi mới đại học,,left_only
+15,BCĐPCTNTƯ,Ban chỉ đạo phòng chống tham nhũng trung ương,,left_only
+16,BCĐQG,Ban chỉ đạo Quốc gia,,left_only
+17,BCĐT,Bưu chính điện tử,,left_only
+18,BCĐTS,Ban chỉ đạo tuyển sinh,,left_only
+19,BCHCD,Ban chỉ huy chiến dịch,,left_only
+20,BCHQS,Bộ chỉ huy quân sự,,left_only
+21,BCHTƯ,Ban chỉ huy trung ương,,left_only
+22,BCHTW,Ban chỉ huy trung ương,,left_only
+23,BCVT,Bưu chính Viễn thông,,left_only
+24,BD,Bình Dương,,left_only
+25,BĐ,Bóng đá,,left_only
+26,BĐN,Bồ Đào Nha,,left_only
+27,BĐS,bất động sản,,left_only
+28,BĐVN,Bóng đá Việt Nam,,left_only
+29,BGD,Bộ Giáo dục,,left_only
+30,BGDĐT,Bộ Giáo dục và Đào tạo,,left_only
+31,BGH,Ban giám hiệu,,left_only
+32,BGK,Ban giám khảo,,left_only
+33,BH,Bảo hiểm,,left_only
+34,BHĐC,bán hàng đa cấp,,left_only
+35,BHL,Ban huấn luyện,,left_only
+36,BHV,Ban huấn luyện,,left_only
+37,BHXH,Bảo hiểm xã hội,,left_only
+38,BHYT,Bảo hiểm y tế,,left_only
+39,BIDV,Ngân hàng Đầu tư và Phát triển Việt Nam,,left_only
+40,BK,Bách khoa,,left_only
+42,BLHS,Bộ luật Hình sự,,left_only
+43,BP,Biên phòng,,left_only
+44,BQL,Ban quản lý,,left_only
+45,BQLDA,Ban Quản lý dự án,,left_only
+46,BSC,Công ty Chứng khoán Ngân hàng Đầu tư & Phát triển Việt Nam,,left_only
+48,BTA,Hiệp định Thương mại Việt - Mỹ,,left_only
+49,BTBNN,bảo trợ bệnh nhân nghèo,,left_only
+50,BTC,Ban tổ chức,,left_only
+51,BTS,Ban tuyển sinh,,left_only
+52,BTV,Biên tập viên,,left_only
+53,BTVH,Bổ túc Văn hóa,,left_only
+54,BV,Bện viện,,left_only
+55,BVĐK,Bệnh viện Đa khoa,,left_only
+56,BVTV,Bảo vệ thực vật,,left_only
+57,BX,Bến xe,,left_only
+58,BXL,Bộ xử lý,,left_only
+59,CAHN,Công an Hà Nội,,left_only
+60,CAND,Công an Nhân dân,,left_only
+61,CATP,Công an Thành phố,,left_only
+63,CBCC,cán bộ công chức,,left_only
+64,CBCNV,Cán bộ công nhân viên,,left_only
+65,CBQLGD,cán bộ quản lý giáo dục,,left_only
+66,CCB,Cựu chiến binh,,left_only
+67,CCHC,cải cách hành chính,,left_only
+68,CĐ,Cao đẳng,,left_only
+69,CĐDC,chất độc da cam,,left_only
+70,CĐSP,Cao đẳng Sư phạm,,left_only
+71,CĐV,Cổ động viên,,left_only
+72,CG,Nhóm các nhà tài trợ cho Việt Nam,,left_only
+73,CHDC,Cộng hòa Dân chủ,,left_only
+74,CHDCND,Cộng hòa Dân chủ Nhân dân,,left_only
+75,CHLB,Cộng hòa Liên bang,,left_only
+76,CHND,Cộng hòa Nhân dân,,left_only
+77,CK,Chứng khoán,,left_only
+78,CLB,Câu lạc bộ,,left_only
+79,CMND,Chứng minh nhân dân,,left_only
+80,CNCN,Chi nhánh Cấp nước,,left_only
+81,CNH,Công nghiệp hóa,,left_only
+82,CNKT,công nhân kỹ thuật,,left_only
+83,CNQSDĐ,chứng nhận quyền sử dụng đất,,left_only
+84,CNSH,Công nghệ sinh học,,left_only
+85,CNTN,cử nhân tài năng,,left_only
+86,CNTT,Công nghệ thông tin,,left_only
+87,CNV,Công nhân viên,,left_only
+88,CNVC,Công nhân viên chức,,left_only
+89,COPD,bệnh phổi tắc nghẽn mãn tính,,left_only
+91,CPE,Hợp đồng lao động đầu tiên,,left_only
+92,CPH,Cổ phần hóa,,left_only
+93,CPP,Đảng Nhân dân Campuchia,,left_only
+94,CPSXTM,cổ phần Xây dựng sản xuất thương mại,,left_only
+95,CPTD,cổ phiếu tự do,,left_only
+96,CPTTT,chậm phát triển trí tuệ,,left_only
+97,CPXD,cấp phép xây dựng,,left_only
+98,CQĐT,Cơ quan điều tra,,left_only
+99,CSCĐ,cảnh sát cơ động,,left_only
+100,CSDC,cảnh sát dã chiến,,left_only
+101,CSDL,Cơ sở Dữ liệu,,left_only
+102,CSĐN,cảnh sát đặc nhiệm,,left_only
+104,CSĐTLX,cơ sở đào tạo lái xe,,left_only
+105,CSĐTTP,Cảnh sát Điều tra tội phạm,,left_only
+106,CSĐTTPMT,Cảnh sát điều tra tội phạm ma túy,,left_only
+107,CSG,Cảng Sài Gòn,,left_only
+108,CSGT,Cảnh sát giao thông,,left_only
+109,CSHS,Cảnh sát Hình sự,,left_only
+110,CSKH,Chăm sóc khách hàng,,left_only
+111,CSKT,Cảnh sát kinh tế,,left_only
+112,CSKV,Cảnh sát khu vực,,left_only
+113,CSPCTPMT,Cục cảnh sát phòng chống tội phạm ma túy,,left_only
+114,CSPK,công suất phản kháng,,left_only
+115,CSQLHC,Cảnh sát Quản lý hành chính,,left_only
+116,CSSD,Đảng Xã hội Dân chủ cánh tả,,left_only
+117,CSSX,cơ sở sản xuất,,left_only
+118,CSVC,Cơ sở vật chất,,left_only
+119,CSVL,Cao su Việt - Lào,,left_only
+120,CSVN,Cộng sản Việt Nam,,left_only
+121,CSXH,chính sách xã hội,,left_only
+123,CTCC,Công trình Công cộng,,left_only
+124,CTCH,chấn thương chỉnh hình,,left_only
+125,CTCK,công ty chứng khoán,,left_only
+126,CTCLQG,Chương trình chống lao quốc gia,,left_only
+127,CTCN,Công ty Cấp nước,,left_only
+128,CTCP,Công ty Cổ phần,,left_only
+129,CTĐ,Chữ thập đỏ,,left_only
+130,CTĐL,Công ty Điện lực,,left_only
+131,CTN,chuyển tiền nhanh,,left_only
+132,CTSN,Chấn thương sọ não,,left_only
+133,CTTC,cho thuê tài chính,,left_only
+134,CTTH,chương trình truyền hình,,left_only
+135,CTTNHH,Công ty Trách nhiệm Hữu hạn,,left_only
+136,CTTT,chương trình tiên tiến,,left_only
+137,CTV,cộng tác viên,,left_only
+138,CTXH,Công tác xã hội,,left_only
+139,CV,Chuyên viên,,left_only
+140,CVPM,Công viên phần mềm,,left_only
+141,CX,Cư xá,,left_only
+142,DAGTĐT,dự án giao thông đô thị,,left_only
+143,ĐATP,Đông Á - Thép Pomina,,left_only
+145,ĐBDT,đồng bào dân tộc,,left_only
+146,ĐBP,Điện Biên Phủ,,left_only
+147,ĐBQH,Đại biểu quốc hội,,left_only
+148,ĐBSCL,Đồng bằng sông Cửu Long,,left_only
+149,ĐBTN,Đại biểu thanh niên,,left_only
+150,ĐBTSXB,đánh bắt thủy sản xa bờ,,left_only
+152,DCCH,Dân chủ Cộng hòa,,left_only
+153,ĐCS,Đảng cộng sản,,left_only
+154,ĐCSTQ,Đảng cộng sản Trung Quốc,,left_only
+155,ĐCSVN,Đảng cộng sản Việt Nam,,left_only
+157,ĐD,Đại diện,,left_only
+159,DDVN,Duyên Dáng Việt Nam,,left_only
+160,ĐH,Đại học,,left_only
+161,ĐHBC,Đại học Bán công,,left_only
+162,ĐHBK,Đại học Bách khoa,,left_only
+163,ĐHBKHCM,Đại học Bách khoa Thành phố Hồ Chí Minh,,left_only
+164,ĐHBKTPHCM,Đại học Bách khoa Thành phố Hồ Chí Minh,,left_only
+165,ĐHBKHN,Đại học Bách khoa Hà Nội,,left_only
+167,ĐHCLC,đại học chất lượng cao,,left_only
+168,ĐHCN,đại học Công nghệ,,left_only
+169,ĐHCT,Đại học Cần Thơ,,left_only
+170,ĐHĐCQT,Đại học đẳng cấp quốc tế,,left_only
+171,ĐHĐD,Đại học Đông Dương,,left_only
+172,ĐHDL,Đại học Dân lập,,left_only
+173,ĐHĐN,Đại học Đà nẵng,,left_only
+174,ĐHGTVT,Đại học Giao thông Vận tải,,left_only
+175,ĐHHB,Đại học Hồng Bàng,,left_only
+176,ĐHHVN,Đại học Hàng hải Việt Nam,,left_only
+177,ĐHKH,Đại học Khoa học,,left_only
+178,ĐHKHTN,Đại học Khoa học tự nhiên,,left_only
+179,ĐHKHTNHN,Đại học Khoa học tự nhiên Hà nội,,left_only
+180,ĐHKHXH,Đại học Khoa học Xã hội,,left_only
+181,ĐHKT,Đại học Kỹ thuật,,left_only
+182,DHKTCN,Đại học Kỹ thuật Công nghệ,,left_only
+183,ĐHKTCN,Đại học Kỹ thuật Công nghệ,,left_only
+184,ĐHKTQD,Đại học Kinh tế Quốc dân,,left_only
+185,ĐHN,"Điện hạt nhân, đồng hồ nước",,left_only
+186,ĐHNT,Đại học Nha Trang,,left_only
+187,ĐHQG,Đại học Quốc gia,,left_only
+188,ĐHQGHN,Đại học Quốc gia Hà nội,,left_only
+189,DHS,du học sinh,,left_only
+190,ĐHSP,Đại học Sư phạm,,left_only
+191,ĐK,Đăng ký,,left_only
+192,ĐKDT,đăng ký dự thi,,left_only
+193,ĐKĐT,điện kế điện tử,,left_only
+194,ĐLTP,điện kế điện tử,,left_only
+195,ĐKHK,Đăng ký hộ khẩu,,left_only
+196,ĐKKD,Đăng ký kinh doanh,,left_only
+197,ĐKKH,Điện hạt nhân,,left_only
+198,ĐKVĐ,Đương kim vô địch,,left_only
+199,ĐKVN,Điền kinh Việt Nam,,left_only
+200,ĐKXT,đăng ký xét tuyển,,left_only
+201,DL,Du lịch,,left_only
+202,ĐL,đo lường,,left_only
+203,ĐMN,Đá Mỹ Nghệ,,left_only
+204,DN,Doanh nghiệp,,left_only
+206,ĐNA,Đông nam á,,left_only
+207,ĐNÁ,Đông Nam Á,,left_only
+208,DNNN,Doanh nghiệp nhà nước,,left_only
+209,DNT,Doanh nghiệp trẻ,,left_only
+210,DNTN,Doanh nghiệp Tư nhân,,left_only
+211,DNVN,doanh nghiệp Việt Nam,,left_only
+212,DNVVN,doanh nghiệp vừa và nhỏ,,left_only
+213,ĐRL,điểm rèn luyện,,left_only
+214,DS,dân số,,left_only
+215,ĐS,đường sắt,,left_only
+216,ĐSQ,đại sứ quán,,left_only
+217,DT,dự tuyển,,left_only
+218,ĐT,Đào tạo,,left_only
+219,ĐTA,đồng tính ái,,left_only
+220,ĐTB,điểm trung bình,,left_only
+221,ĐTĐ,đái tháo đường,,left_only
+222,ĐTDĐ,Điện thoại di động,,left_only
+223,DTHT,dạy thêm học thêm,,left_only
+224,ĐTHVN,Đài truyền hình Việt Nam,,left_only
+225,VTV,Đài truyền hình Việt Nam,,left_only
+226,ĐTLA,Đồng tính luyến ái,,left_only
+227,ĐTLT,đào tạo liên thông,,left_only
+228,ĐTNN,đầu tư nước ngoài,,left_only
+229,DTQG,Đội tuyển quốc gia,,left_only
+230,ĐTQG,Đội tuyển quốc gia,,left_only
+231,ĐTTX,Đào tạo từ xa,,left_only
+232,ĐTTXQM,Đào tạo từ xa Qua mạng,,left_only
+233,ĐTV,điều tra viên,,left_only
+234,ĐTVHD,động thực vật hoang dã,,left_only
+235,ĐTVN,Đội tuyển Việt Nam,,left_only
+236,ĐTXDCB,đầu tư xây dựng cơ bả,,left_only
+238,ĐV,Đoàn viên,,left_only
+239,ĐVHT,Đơn vị học trình,,left_only
+240,DVTMCM,dịch vụ thương mại Cà Mau,,left_only
+241,ĐVTN,đoàn viên thanh niên,,left_only
+243,ĐVTTN,Đoàn viên thanh thiếu nhi,,left_only
+244,ĐVƯT,đoàn viên ưu tú,,left_only
+245,DVVL,dịch vụ việc làm,,left_only
+246,EU,Liên minh châu Âu,,left_only
+247,EVN,Công ty Viễn thông điện lực,,left_only
+248,FIFA,Liên đoàn bóng đá thế giới,,left_only
+249,GATT,Hiệp định chung về Thuế quan và Thương mại,,left_only
+250,GCMND,giấy chứng minh nhân dân,,left_only
+251,GCN,Giấy chứng nhận,,left_only
+252,GCNĐKKD,Giấy chứng nhận đăng ký kinh doanh,,left_only
+253,GCNKQT,giấy chứng nhận kết quả thi,,left_only
+254,GCNQSD,giấy chứng nhận quyền sử dụng,,left_only
+255,GCNQSDĐ,Giấy chứng nhận quyền sử dụng đất,,left_only
+256,GCNQSDĐƠ,Giấy chứng nhận quyền sử dụng đất ở,,left_only
+257,GCNQSH,Giấy chứng nhận quyền sở hữu,,left_only
+258,GCNQSHN,Giấy chứng nhận quyền sở hữu nhà,,left_only
+259,GCNQSHNƠ,Giấy chứng nhận quyền sở hữu nhà ở,,left_only
+260,GCNSK,giấy chứng nhận sức khỏe,,left_only
+261,GCQ,giấy chủ quyền,,left_only
+262,GD,Giáo dục,,left_only
+263,GĐ,Giám đốc,,left_only
+264,GDĐH,giáo dục dục đại học,,left_only
+265,GĐĐH,giám đốc điều hành,,left_only
+266,GDĐT,Giáo dục & Đào tạo,,left_only
+267,GDGT,giáo dục giới tính,,left_only
+268,GDNN,giáo dục nghề nghiệp,,left_only
+269,GĐT,Gạch Đồng Tâm,,left_only
+270,GĐTLA,Gạch Đồng Tâm Long An,,left_only
+271,GĐTT,Giám đốc thông tin,,left_only
+272,GDTX,Giáo dục thường xuyên,,left_only
+273,GHPGVN,Giáo hội Phật giáo Việt Nam,,left_only
+274,GK,Giáo khoa,,left_only
+275,GKQT,chứng nhận kết quả thi,,left_only
+276,GL,Gia Lai,,left_only
+277,GMD,gái mại dâm,,left_only
+278,GP,Giấy phép,,left_only
+279,GPC,Công ty Dịch vụ Viễn thông,,left_only
+280,GPLHĐB,giấy phép lưu hành đặc biệt,,left_only
+281,GPLX,Giấy phép lái xe,,left_only
+282,GPNK,phép nhập khẩu,,left_only
+283,GPTM,giải phẫu thẩm mỹ,,left_only
+284,GPXD,Giấy phép xây dựng,,left_only
+285,GS,Giáo sư,,left_only
+286,GSTS,Giáo sư Tiến sỹ,,left_only
+287,GSTSKH,Giáo sư Tiến sỹ Khoa học,,left_only
+288,GSTT,giám sát trọng tài,,left_only
+290,GTCC,Giao thông Công chánh,,left_only
+291,GTGT,Giá trị gia tăng,,left_only
+292,GTMT,giãn tĩnh mạch tinh,,left_only
+293,GTVT,Giao thông Vận tải,,left_only
+295,GVCN,Giáo viên chủ nhiệm,,left_only
+296,GVG,giáo viên giỏi,,left_only
+298,GVTH,giáo viên tiểu học,,left_only
+299,GVTN,giáo viên tình nguyện,,left_only
+300,HAGL,Hoàng Anh Gia Lai,,left_only
+301,HB,Học bổng,,left_only
+302,HBV,virus viêm gan B,,left_only
+304,HCB,Huy chương bạc,,left_only
+305,HCĐ,Huy chương đồng,,left_only
+306,HCM,Hồ Chí Minh,,left_only
+307,HCTC,học chế tín chỉ,,left_only
+308,HCTL,hội chợ triển lăm,,left_only
+309,HCV,Huy chương vàng,,left_only
+310,HCVL,Hội chợ việc làm,,left_only
+311,HD,Hướng dẫn,,left_only
+313,HĐBA,Hội đồng Bảo an Liên Hiệp Quốc,,left_only
+314,HĐCD,Hội đồng chức danh,,left_only
+315,HĐCDGS,Hội đồng chức danh giáo sư,,left_only
+316,HĐCDGSCS,Hội đồng chức danh giáo sư cơ sở,,left_only
+317,HĐCDGSN,Hội đồng Chức danh giáo sư ngành,,left_only
+318,HĐCDGSNN,Hội đồng Chức danh giáo sư nhà nước,,left_only
+319,HĐCT,hội đồng coi thi,,left_only
+320,HĐĐB,Hội đồng Đền bù,,left_only
+321,HĐĐG,Hội đồng định giá,,left_only
+322,HĐH,Hệ điều hành,,left_only
+323,HĐKT,hợp đồng kinh tế,,left_only
+324,HĐLĐ,Hợp đồng lao động,,left_only
+325,HĐNDTP,Hội đồng nhân dân thành phố,,left_only
+326,HĐNT,hội đồng nghệ thuật,,left_only
+327,HĐQT,Hội đồng Quản trị,,left_only
+329,HĐTĐ,Hội đồng thẩm định,,left_only
+330,HĐTS,Hội đồng tuyển sinh,,left_only
+331,HĐTT,Hội đồng Trọng tài,,left_only
+332,HDV,hướng dẫn viên,,left_only
+333,HĐXX,Hội đồng xét xử,,left_only
+334,HH,Hoa hậu,,left_only
+335,HHTG,Hoa hậu Thế giới,,left_only
+336,HHVN,Hoa hậu Việt Nam,,left_only
+337,HK,Học kỳ,,left_only
+338,HKDD,Hàng không dân dụng,,left_only
+339,HKDDVN,Hàng không dân dụng Việt Nam,,left_only
+340,HKHKT,hội khoa học kỹ thuật,,left_only
+341,HKHKTVN,hội khoa học kỹ thuật Việt Nam,,left_only
+342,HKTT,hộ khẩu thường trú,,left_only
+343,HL,huấn luyện,,left_only
+344,HLBĐ,Hoa Lâm Bình Định,,left_only
+345,HLQG,Huấn luyện Quốc gia,,left_only
+346,HLTTQG,Trung tâm huấn luyện thể thao quốc gia,,left_only
+347,HLV,Huấn luyện viên,,left_only
+348,HMNĐ,hiến máu nhân đạo,,left_only
+349,HN,"Hà Nội, Hội nghị",,left_only
+350,HND,Hội nông dân,,left_only
+351,HNGĐ,hôn nhân gia đình,,left_only
+352,HNHT,hội nghị hiệp thương,,left_only
+353,HNV,Hội Nhà văn,,left_only
+355,HPHN,Hòa Phát Hà Nội,,left_only
+357,HQĐT,Hải quan điện tử,,left_only
+358,HQHP,Hải quan Hải phòng,,left_only
+359,HS,Học sinh,,left_only
+360,HSBC,Học sinh bán công,,left_only
+361,HSĐKDT,Hồ sơ đăng ký dự thi,,left_only
+362,HSDPA,Truy nhập gói đường xuống tốc độ cao,,left_only
+363,HSG,học sinh giỏi,,left_only
+364,HSGQG,học sinh giỏi Quốc gia,,left_only
+365,HSGQT,học sinh giỏi Quốc tế,,left_only
+366,HSPT,học sinh phổ thông,,left_only
+367,HSSV,Học sinh sinh viên,,left_only
+368,HSV,Hội sinh viên,,left_only
+369,HTCĐ,học tập cộng đồng,,left_only
+370,HTXDVNN,Hợp tác xã dịch vụ nông nghiệp,,left_only
+371,HUD,Tổng công ty Đầu tư phát triển nhà và đô thị,,left_only
+372,HV,Học viên,,left_only
+373,HVANND,Học viện An ninh Nhân dân,,left_only
+374,HVBCVT,Học viện Bưu chính Viễn thông,,left_only
+375,HVCH,Học viên Cao học,,left_only
+376,HVCNBCVT,Học viện Công nghệ Bưu chính Viễn thông,,left_only
+377,HVKHQS,Học viện Khoa học Quân sự,,left_only
+378,HVN,Honda Việt Nam,,left_only
+379,HVNCL,Hàng Việt Nam chất lượng,,left_only
+380,HVNCLC,Hàng Việt Nam chất lượng cao,,left_only
+381,HVNH,Học viện Ngân hàng,,left_only
+382,IMF,Quỹ tiền tệ quốc tế,,left_only
+383,KBNN,Kho bạc Nhà nước,,left_only
+384,KBS,Kênh truyền hình TW Hàn Quốc,,left_only
+385,KCB,khám chữa bệnh,,left_only
+386,KCN,Khu công nghiệp,,left_only
+387,KCX,Khu chế xuất,,left_only
+388,KDC,khu dân cư,,left_only
+389,KĐCL,Kiểm định chất lượng,,left_only
+390,KĐCLGD,Kiểm định chất lượng Giáo dục,,left_only
+391,KDCN,Kiểu dáng công nghiệp,,left_only
+392,KDDV,kinh doanh dịch vụ,,left_only
+393,KDĐV,Kiểm dịch động vật,,left_only
+394,KDHĐC,kinh doanh hàng đa cấp,,left_only
+395,KDL,Khu du lịch,,left_only
+396,KDN,Kinh doanh nhà,,left_only
+397,KDNPN,Kinh doanh nhà Phú Nhuận,,left_only
+398,KĐS,Khu đường sông,,left_only
+399,KĐT,Khu đô thị,,left_only
+400,KĐTM,Khu đô thị mới,,left_only
+401,KĐTNTL,Đô thị Nam Thăng Long,,left_only
+402,KH,Kế hoạch,,left_only
+403,KHCN,Khoa học Công nghệ,,left_only
+404,KHĐT,Kế hoạch Đầu tư,,left_only
+405,KHKD,Kế hoạch kinh doanh,,left_only
+406,KHKT,Khoa học Kỹ thuật,,left_only
+407,KHKTHN,Khoa học Kỹ thuật Hạt nhân,,left_only
+408,KHKTHS,Khoa học kỹ thuật hình sự,,left_only
+409,KHKTNN,Khoa học kỹ thuật Nông nghiệp,,left_only
+410,KHKTNNMN,Khoa học kỹ thuật Nông nghiệp miền Nam,,left_only
+411,KHLS,Khoa học lịch sử,,left_only
+412,KHTN,Khoa học Tự nhiên,,left_only
+413,KHXH,Khoa học Xãn hội,,left_only
+414,KK,Khuyến khích,,left_only
+415,KKT,khu kinh tế,,left_only
+416,KL,Kết luận,,left_only
+417,KLĐT,kết luận điều tra,,left_only
+418,KLQG,Kỷ lục quốc gia,,left_only
+419,KN,Khuyến nông,,left_only
+420,KNTC,khiếu nại tố cáo,,left_only
+421,KP,khu phố,,left_only
+423,KSND,Kiểm sát nhân dân,,left_only
+424,KSNDTC,Kiểm sát Nhân dân Tối cao,,left_only
+425,KST,ký sinh trùng,,left_only
+426,KSV,kiểm sát viên,,left_only
+427,KTM,Khu thương mại,,left_only
+428,KTNN,Kinh tế nhà nước,,left_only
+429,KTQD,kinh tế quốc dân,,left_only
+430,KTQDHN,Kinh tế Quốc dân Hà Nội,,left_only
+431,KTS,Kiến trúc sư,,left_only
+432,KTTV,khí tượng thủy văn,,left_only
+433,KTV,Kỹ thuật viên,,left_only
+434,KTX,Ký túc xá,,left_only
+435,KV,Khu vực,,left_only
+436,KV1,Khu vực 1,,left_only
+437,KV2,Khu vực 2,,left_only
+438,KV3,Khu vực 3,,left_only
+439,LB,Liên bang,,left_only
+441,LĐ,Lao động,,left_only
+442,LĐBĐ,Liên đoàn bóng đá,,left_only
+443,LĐBĐVN,Liên đoàn bóng đá Việt Nam,,left_only
+444,VFF,Liên đoàn bóng đá Việt Nam,,left_only
+445,LĐLĐ,Liên đoàn Lao động,,left_only
+446,LDP,Đảng Dân chủ Tự do,,left_only
+447,LĐTB,Lao động Thương binh,,left_only
+448,LĐTBXH,Lao động Thương binh Xã hội,,left_only
+450,LHP,Liên hoan phim,,left_only
+451,LHPN,Liên hiệp Phụ nữ,,left_only
+452,LHQ,"Liên hiệp quốc, Lên hợp quốc",,left_only
+453,LHS,lưu học sinh,,left_only
+454,LHTN,Liên hiệp Thanh niên,,left_only
+455,LHTNVN,Hội Liên hiệp Thanh niên Việt Nam,,left_only
+456,LL,lực lượng,,left_only
+457,LLLĐ,Lực lượng lao động,,left_only
+458,LS,Luật sư,,left_only
+459,LSQ,Lãnh sự quán,,left_only
+460,LTQĐTD,lây truyền qua đường tình dục,,left_only
+461,MB,Ngân hàng TMCP quân đội,,left_only
+462,MBH,mũ bảo hiểm,,left_only
+463,MHX,Mùa hè xanh,,left_only
+464,MS,Mã số,,left_only
+466,MTĐT,Máy tính điện tử,,left_only
+467,MTTQ,Mặt trận tổ quốc,,left_only
+468,MTTQVN,Mặt trận tổ quốc Việt Nam,,left_only
+469,MTXT,Máy tính xách tay,,left_only
+470,NC,Nghiên cứu,,left_only
+471,NCC,nhà cung cấp,,left_only
+472,NCKH,nghiên cứu khoa học,,left_only
+473,NCL,ngoài công lập,,left_only
+474,NCS,Nghiên cứu sinh,,left_only
+475,NCTO,Hội đồng Các Tổ chức Dệt may Quốc gia Mỹ,,left_only
+476,NCTT,Nghiên cứu thị trường,,left_only
+477,ND,Nhân dân,,left_only
+478,NĐ,Nghị định,,left_only
+479,NDC,Trung tâm dữ liệu Viễn thám Quốc gia,,left_only
+480,NDT,Nhân dân tệ,,left_only
+481,NĐT,Nhà đầu tư,,left_only
+482,NĐVN,người đẹp Việt Nam,,left_only
+483,NH,Ngân hàng,,left_only
+484,NHCSXH,Ngân hàng Chính sách xã hội,,left_only
+485,NHCTCN,Ngân hàng Công thương Chi nhánh,,left_only
+486,NHCTHP,Ngân hàng Công thương Hải Phòng,,left_only
+487,NHCTVN,Ngân hàng Công thương Việt Nam,,left_only
+488,NHĐA,Ngân hàng Đông Á,,left_only
+489,NHĐÁ,Ngân hàng Đông Á,,left_only
+490,NHĐT,Ngân hàng Đầu tư,,left_only
+491,NHĐTPT,Ngân hàng Đầu tư phát triển,,left_only
+492,NHK,Đài truyền hình quốc gia Nhật Bản,,left_only
+493,NHNN,Ngân hàng nhà nước,,left_only
+494,NHNNo,Ngân hàng Nông nghiệp và Phát triển Nông thôn,,left_only
+495,NHNNPTNT,Ngân hàng Nông nghiệp và Phát triển Nông thôn,,left_only
+496,NHNNVN,Ngân hàng Nhà nước Việt Nam,,left_only
+497,NHNoVN,Ngân hàng Nông nghiệp và Phát triển Nông thôn Việt Nam,,left_only
+498,NHNT,Ngân hàng Ngoại thương,,left_only
+499,NHRC,Ủy ban Nhân quyền quốc gia,,left_only
+500,NHTM,Ngân hàng Thương mại,,left_only
+501,NHTMCP,ngân hàng thương mại cổ phần,,left_only
+502,NHTMNN,ngân hàng thương mại nhà nước,,left_only
+503,NHTMQD,ngân hàng thương mại quốc doanh,,left_only
+504,NHTQ,Ngân hàng Trung ương Trung Quốc,,left_only
+505,NHTSA,Cục an toàn xa lộ quốc gia Mỹ,,left_only
+506,NHTƯ,Ngân hàng Trung ương,,left_only
+507,NHTW,Ngân hàng Trung ương,,left_only
+508,NK,Nhập khẩu,,left_only
+509,NKBV,nhiễm khuẩn bệnh viện,,left_only
+510,NKKN,Nam Kỳ Khởi Nghĩa,,left_only
+511,NKNV,Năng khiếu Nghiệp vụ,,left_only
+512,NKT,người khuyết tật,,left_only
+513,NL,Năng lượng,,left_only
+514,NLĐ,Người lao động,,left_only
+515,NLMT,năng lượng mặt trời,,left_only
+516,NLS,nông lâm sản,,left_only
+517,NLTT,năng lượng tái tạo,,left_only
+518,NMĐ,nhà máy điện,,left_only
+519,NN,Nhà nước,,left_only
+520,NNCĐDC,Nạn nhân chất độc da cam,,left_only
+521,NNPTNT,Nông nghiệp và Phát triển nông thôn,,left_only
+522,NPP,Nhà phân phối,,left_only
+523,NQ,Nghị quyết,,left_only
+524,NQD,ngoài quốc doanh,,left_only
+525,NS,Nghệ sỹ,,left_only
+526,NSND,Nghệ sỹ nhân dân,,left_only
+527,NSNN,ngân sách nhà nước,,left_only
+528,NST,nhiễm sắc thể,,left_only
+529,NSƯT,Nghệ sỹ ưu tú,,left_only
+530,NTBD,Nghệ thuật biểu diễn,,left_only
+532,NTK,nhà thiết kế,,left_only
+534,NV1,Nguyện vọng 1,,left_only
+535,NV2,Nguyện vọng 2,,left_only
+536,NV3,Nguyện vọng 3,,left_only
+537,NVH,Nhà văn hóa,,left_only
+538,NVHTN,Nhà Văn hóa Thanh niên,,left_only
+539,NXB,Nhà xuất bản,,left_only
+540,NXBGD,Nhà xuất bản Giáo dục,,left_only
+541,NXBKHXH,Nhà xuất bản Khoa học Xã hội,,left_only
+542,NXBQĐND,Nhà xuất bản Quân đội Nhân dân,,left_only
+543,NXBTN,Nhà xuất bản Tự nhiên,,left_only
+544,NXBVHTT,Nhà xuất bản Văn hóa Nghệ thuật,,left_only
+545,PC14,Phòng Cảnh sát điều tra tội phạm về trật tự xã hội,,left_only
+546,PC15,Phòng Cảnh sát điều tra tội phạm về quản lý kinh tế và chức vụ,,left_only
+547,PC16,Phòng Cảnh sát điều tra,,left_only
+548,PC17,Phòng cảnh sát phòng chống tội phạm ma tuý,,left_only
+549,PCBL,phòng chống bão lụt,,left_only
+550,PCBLTKCN,phòng chống bão lụt và tìm kiếm cứu nạn,,left_only
+551,PCBTH,phổ cập bậc trung học,,left_only
+552,PCC,Phòng công chứng,,left_only
+553,PCCC,Phòng cháy chửa cháy,,left_only
+554,PCGD,phổ cập giáo dục,,left_only
+555,PCGDBTH,phổ cập giáo dục bậc trung học,,left_only
+556,PCGDTH,phổ cập giáo dục tiểu học,,left_only
+557,PCGDTHCS,phổ cập giáo dục trung học cơ sở,,left_only
+558,PCLBMN,phòng chống lụt bão miền Nam,,left_only
+559,PCLBTƯ,phòng chống lụt bão Trung ương,,left_only
+560,PCLBTW,phòng chống lụt bão Trung ương,,left_only
+562,PCTH,phổ cập tiểu học,,left_only
+563,PCTHCS,phổ cập trung học cơ sở,,left_only
+564,PCTN,Phòng chống tệ nạn,,left_only
+565,PCTNXH,Phòng chống tệ nạn xã hội,,left_only
+566,PCTPCNC,Phòng chống tội phạm công nghệ cao,,left_only
+567,PGĐ,Phó giám đốc,,left_only
+568,PGHH,Phật giáo Hòa Hảo,,left_only
+569,PGS,Phó Giáo sư,,left_only
+570,PHHS,phụ huynh học sinh,,left_only
+571,PL,Pháp luật,,left_only
+572,PLO,Tổ chức Giải phóng Palestin,,left_only
+573,PM,phần mềm,,left_only
+574,PMU,Ban quản lý dự án,,left_only
+575,PMU18,Ban quản lý dự án 18,,left_only
+576,PN,Phụ nữ,,left_only
+577,PNTR,Quy chế Thương mại bình thường vĩnh viễn,,left_only
+578,PP,phương pháp,,left_only
+579,PS,Phóng sự,,left_only
+580,PTCS,Phổ thông cơ sở,,left_only
+581,PTN,phòng thí nghiệm,,left_only
+582,PTNT,Phát triển Nông thôn,,left_only
+583,PTSC,Công ty Dịch vụ Kỹ thuật dầu khí,,left_only
+584,PTT,Phó thủ tướng,,left_only
+585,PTTH,Phổ thông trung học,,left_only
+586,PTTM,Phẫu thuật thẩm mỹ,,left_only
+587,PTTT,Phát triển trẻ thơ,,left_only
+588,PTV,Phát thanh viên,,left_only
+590,PY,Phú Yên,,left_only
+591,QBLTD,Quĩ bảo lãnh tín dụng,,left_only
+592,QC,Quy chế,,left_only
+593,QCDCCS,quy chế dân chủ cơ sở,,left_only
+594,QCGNHH,Quy chế ghi nhãn hàng hóa,,left_only
+595,QCHQ,quan chức hải quan,,left_only
+596,QCKDTXD,Quy chế kinh doanh thép xây dựng,,left_only
+597,QCKT,quy chuẩn kĩ thuật,,left_only
+598,QĐ,Quyết định,,left_only
+599,QĐND,Quân đội nhân dân,,left_only
+600,QG,Quốc gia,,left_only
+601,QH,Quốc hội,,left_only
+602,QHTD,Quan hệ tình dục,,left_only
+603,QK,Quân khu,,left_only
+604,QL,Quản lý,,left_only
+605,QLD,Quản lý dược,,left_only
+606,QLDA,Quản lý dự án,,left_only
+607,QLĐT,Quản lý Đào tạo,,left_only
+608,QLTT,Quản lý thị trường,,left_only
+609,QN,Quảng Ninh,,left_only
+610,QSD,quyền sử dụng,,left_only
+611,QSDĐ,quyền sử dụng đất,,left_only
+612,QTKD,Quản trị Kinh doanh,,left_only
+613,RLC,rối loạn cương,,left_only
+614,RLCD,rối loạn cương dương,,left_only
+616,SBD,Số báo danh,,left_only
+617,SBS,Công ty Chứng khoán Ngân hàng Sài Gòn Thương Tín,,left_only
+618,SD,sử dụng,,left_only
+619,SDĐ,sử dụng đất,,left_only
+620,SDĐNN,sử dụng đất nông nghiệp,,left_only
+621,SĐH,sau đại học,,left_only
+622,SĐK,số đăng ký,,left_only
+623,SĐNĐ,Sông Đà Nam Định,,left_only
+624,SĐT,số điện thoại,,left_only
+625,SĐTLA,Sơn Đồng Tâm Long An,,left_only
+626,SG,Sài Gòn,,left_only
+627,SGD,Sở giáo dục,,left_only
+628,SGGP,Sài gòn giải phóng,,left_only
+629,SGK,Sách giáo khoa,,left_only
+630,SGT,Saigontourist,,left_only
+631,SGTT,Sài Gòn Tiếp Thị,,left_only
+632,SGTVT,Sở Giao thông Vận tải,,left_only
+633,SH,Sinh hoạt,,left_only
+634,SHNN,Sở hữu nhà nước,,left_only
+635,SHTD,sinh hoạt tình dục,,left_only
+636,SHTT,sở hữu trí tuệ,,left_only
+637,SJC,Công Ty Vàng Bạc Đá Quý TP Hồ Chí Minh,,left_only
+638,SK,Sân khấu,,left_only
+639,SKHCN,Sở Khoa học Công nghệ,,left_only
+640,SKHCNMT,Sở Khoa học Công nghệ và Môi trường,,left_only
+641,SKHĐT,Sở Kế hoạch và Đầu tư,,left_only
+642,SKSS,sức khỏe sinh sản,,left_only
+643,SLNA,Sông Lam Nghệ An,,left_only
+644,SMĐH,Sao mai Điểm hẹn,,left_only
+646,SNN,sở Nông nghiệp,,left_only
+648,SPKT,Sư phạm kỹ thuật,,left_only
+649,SS,Sĩ số,,left_only
+650,SSA,Hiệp hội Tôm miền Nam nước Mỹ,,left_only
+651,STB,Ngân hàng thương mại cổ phần Sài Gòn Thương Tín,,left_only
+652,SV,Sinh viên,,left_only
+653,SVĐ,Sân vận động,,left_only
+654,SVĐV,Sao Vàng Đất Việt,,left_only
+655,SVHS,Sinh viên học sinh,,left_only
+656,SV–HS,Sinh viên học sinh,,left_only
+657,SVNCKH,Sinh viên nghiên cứu khoa học,,left_only
+658,SVTN,Sinh viên tình nguyện,,left_only
+659,SVVN,Sinh viên Việt Nam,,left_only
+660,SX,Sản xuất,,left_only
+661,SXH,sốt xuất huyết,,left_only
+662,SYLL,Sơ yếu lý lịch,,left_only
+663,TACN,thức ăn chăn nuôi,,left_only
+664,TAND,Tòa án nhân dân,,left_only
+665,TANDTC,Tòa án Nhân dân Tối cao,,left_only
+666,TBD,Thái Bình Dương,,left_only
+667,TBKTSG,Thời báo kinh tế Sài Gòn,,left_only
+668,TBKTVN,Thời báo Kinh tế Việt Nam,,left_only
+669,TBMMN,Tai biến mạch máu não,,left_only
+670,TBT,Tổng biên tập,,left_only
+671,TBTT,thuê bao trả trước,,left_only
+672,TBXH,Thương binh Xã hội,,left_only
+674,TCBVNTD,Tiêu chuẩn và bảo vệ người tiêu dùng,,left_only
+675,TCCN,trung cấp chuyên nghiệp,,left_only
+677,TCDL,Tổng cục Du lịch,,left_only
+678,TCHL,tuyệt chủng hàng loạt,,left_only
+679,TCHQ,Tổng cục hải quan,,left_only
+681,TCKT,Tài chính - Kế toán,,left_only
+682,TCMN,thủ công mỹ nghệ,,left_only
+683,TCMR,tiêm chủng mở rộng,,left_only
+684,TCN,trung cấp nghề,,left_only
+685,TCNN,Tài chính nhà nước,,left_only
+686,TCS,Trịnh Công Sơn,,left_only
+687,TCT,Tổng công ty,,left_only
+688,TCTD,tổ chức tín dụng,,left_only
+689,TCTT,trò chơi trực tuyến,,left_only
+690,TCTTMSG,Tổng công ty Thương mại Sài Gòn,,left_only
+691,TCVN,Tiêu chuẩn Việt Nam,,left_only
+692,TCVSG,Thảo Cầm Viên Sài Gòn,,left_only
+693,TD,tình dục,,left_only
+694,TĐ,từ điển,,left_only
+695,TĐBKVN,Từ Điển Bách Khoa Việt Nam,,left_only
+696,TĐC,tái định cư,,left_only
+697,TDTT,Thể dục thể thao,,left_only
+698,TDTTQG,Thể dục thể thao Quốc gia,,left_only
+699,TDV,trình dược viên,,left_only
+700,TFS,Hãng phim Truyền hình TPHCM,,left_only
+701,TG,thế giới,,left_only
+702,TGĐ,Tổng giám đốc,,left_only
+703,TGPL,trợ giúp pháp lý,,left_only
+705,THCB,Trung học Chuyên ban,,left_only
+706,THCN,Trung học chuyên nghiệp,,left_only
+707,THCS,Trung học cơ sở,,left_only
+708,THCSND,Thực hiện chính sách nhà đất,,left_only
+709,THCSNĐ,Thực hiện chính sách nhà đất,,left_only
+710,THDL,trung học dân lập,,left_only
+711,THGT,tín hiệu giao thông,,left_only
+712,THKTS,truyền hình kỹ thuật số,,left_only
+713,THKTSMĐ,truyền hình kỹ thuật số mặt đất,,left_only
+714,THPT,Trung học phổ thông,,left_only
+715,THQG,thương hiệu quốc gia,,left_only
+716,THS,Tín hiệu số,,left_only
+717,THTT,truyền hình trực tiếp,,left_only
+718,THVN,Truyền hình Việt Nam,,left_only
+719,THX,Tân hoa xã,,left_only
+720,TK,thiết kế,,left_only
+721,TKCN,tìm kiếm cứu nạn,,left_only
+722,TM,Thương mại,,left_only
+723,TMCP,Thương mại cổ phần,,left_only
+724,TMĐT,Thương mại Điện tử,,left_only
+725,TMN,Thép Miền Nam,,left_only
+726,TMV,Công ty ôtô Toyota Việt Nam,,left_only
+727,TN,Thanh niên,,left_only
+728,TNCN,thu nhập cá nhân,,left_only
+729,TNCS,Thanh niên cộng sản,,left_only
+730,TNĐH,tốt nghiệp đại học,,left_only
+731,TNDN,Thu nhập doanh nghiệp,,left_only
+732,TNĐT,Thoát nước Đô thị,,left_only
+733,TNGT,Tai nạn giao thông,,left_only
+734,TNHC,Trinh nữ hoàng cung,,left_only
+735,TNHH,Trách nhiệm hữu hạn,,left_only
+736,TNK,thuế nhập khẩu,,left_only
+737,TNKQ,trắc nghiệm khách quan,,left_only
+738,TNLN,thanh niên lập nghiệp,,left_only
+739,TNMT,Tài nguyên Môi trường,,left_only
+740,TNND,Tiếng nói Nhân dân,,left_only
+741,TNNT,thanh niên nông thôn,,left_only
+742,TNO,Thanh niên Online,,left_only
+743,TNS,tu nghiệp sinh,,left_only
+744,TNSV,thanh niên sinh viên,,left_only
+745,TNSVVN,thanh niên sinh viên Việt Nam,,left_only
+746,TNT,Tình Nguyện Trẻ,,left_only
+748,TNTP,Thiếu niên Tiền phong,,left_only
+749,TNV,Tình nguyện viên,,left_only
+750,TNVN,Thanh niên Việt Nam,,left_only
+751,TNXH,tệ nạn xã hội,,left_only
+752,TNXK,Thanh niên xung kích,,left_only
+753,TNXP,Thanh niên xung phong,,left_only
+754,TPCĐ,trái phiếu chuyển đổi,,left_only
+755,TPCN,Thực phẩm chức năng,,left_only
+756,TPCT,Thành phố Cần Thơ,,left_only
+757,TPHCM,Thành phố Hồ Chí Minh,,left_only
+758,TPO,Tiên phong Online,,left_only
+759,TQ,Trung Quốc,,left_only
+760,TSDĐ,tiền sử dụng đất,,left_only
+761,TSKH,Tiến sỹ Khoa học,,left_only
+762,TSN,Tân Sơn Nhất,,left_only
+764,TTBĐS,thị trường bất động sản,,left_only
+765,TTBDVH,Trung tâm bồi dưỡng văn hóa,,left_only
+766,TTBDVHNG,Trung tâm bồi dưỡng văn hóa ngoài giờ,,left_only
+767,TTBVQTG,Trung tâm bảo vệ quyền tác giả,,left_only
+768,TTBYT,Trang thiết bị y tế,,left_only
+771,TTCP,"Thanh tra Chính phủ , Thủ tướng Chính phủ",,left_only
+772,TTCT,Thể Thao Cuối Tuần,,left_only
+773,TTĐB,thuế Tiêu thụ đặc biệt,,left_only
+774,TTDD,Trung tâm Dinh dưỡng,,left_only
+775,TTĐM,Trung tâm Điện máy,,left_only
+776,TTDV,Trung tâm Dịch vụ,,left_only
+777,TTDVVL,Trung tâm Dịch vụ việc làm,,left_only
+778,TTg,Thủ tướng,,left_only
+779,TTGDCK,Trung tâm giao dich chứng khoán,,left_only
+780,TTGDTX,Trung tâm Giáo dục thường xuyên,,left_only
+781,TTGT,Trật tự Giao thông,,left_only
+782,TTH,Thừa Thiên Huế,,left_only
+783,TTHTCĐ,Trung tâm học tập cộng đồng,,left_only
+784,TTHTSV,trung tâm hỗ trợ sinh viên,,left_only
+785,TTK,tổng thư ký,,left_only
+786,TTLT,Thông tư liên tịch,,left_only
+787,TTN,thanh thiếu niên,,left_only
+788,TTNN,Trung tâm Ngoại Ngữ,,left_only
+789,TTO,Tuổi trẻ online,,left_only
+790,TTQLKT,trật tự quản lý kinh tế,,left_only
+791,TTTH,Trung tâm Tin học,,left_only
+792,TTTM,trung tâm thương mại,,left_only
+793,TTTON,thụ tinh trong ống nghiệm,,left_only
+794,TTTTN,trí thức trẻ tình nguyện,,left_only
+795,TTVGT,trật tự viên giao thông,,left_only
+796,TTVH,Trung tâm Văn hóa,,left_only
+798,TTXH,trật tự xã hội,,left_only
+799,TTXVN,Thông tấn xã Việt Nam,,left_only
+800,TTYT,Trung tâm y tế,,left_only
+801,TTYTDP,Trung tâm Y tế dự phòng,,left_only
+803,TVHK,tiếp viên hàng không,,left_only
+804,TVN,Than Việt Nam,,left_only
+805,TVQH,Thường vụ Quốc hội,,left_only
+806,TVV,tư vấn viên,,left_only
+807,TW,Trung ương,,left_only
+808,TX,Thị xã,,left_only
+809,UBCKNN,Ủy ban Chứng khoán Nhà nước,,left_only
+810,UBKT,Uỷ ban Kiểm tra,,left_only
+811,UBMTTQ,Ủy ban Mạt trận Tổ quốc,,left_only
+812,UBMTTQVN,Ủy ban Mặt trận Tổ quốc Việt Nam,,left_only
+813,UBNDTP,Ủy ban Nhân dan Thành phố,,left_only
+814,UBTDTT,Ủy ban Thể dục Thể thao,,left_only
+815,UBTVQH,Ủy ban thường vụ Quốc hội,,left_only
+816,ƯCV,ứng cử viên,,left_only
+817,UNDP,Chương trình Phát triển Liên Hợp Quốc,,left_only
+818,UNESCO,"Tổ chức Giáo dục, Khoa học và Văn hóa của Liên hiệp quốc",,left_only
+819,UNFPA,Quỹ dân số Liên Hợp Quốc,,left_only
+820,UNHCR,Văn phòng Cao ủy Liên hợp quốc về người tỵ nạn,,left_only
+821,UNICEF,Quỹ Nhi đồng Liên hợp quốc,,left_only
+822,UNIFIL,Lực lượng gìn giữ hòa bình của LHQ tại miền nam Libăng,,left_only
+823,UT,ung thư,,left_only
+824,UV,Ủy viên,,left_only
+825,UVBCH,Ủy viên ban chấp hành,,left_only
+826,UVBCT,Ủy viên Bộ chính trị,,left_only
+827,VCB,Ngân hàng ngoại thương Việt Nam,,left_only
+828,VCK,Vòng chung kết,,left_only
+829,VD,ví dụ,,left_only
+830,VĐ,Vô địch,,left_only
+831,VDC,Công ty Điện toán và Truyền số liệu,,left_only
+832,VĐQG,Vô địch Quốc gia,,left_only
+833,VĐV,Vận động viên,,left_only
+834,VĐVQG,Vận động viên Quốc gia,,left_only
+835,VH,Văn hóa,,left_only
+836,VHGDTNTN,Văn hóa Giáo dục Thanh niên Thiếu niên,,left_only
+837,VHGDTTNNĐ,Văn hóa Giáo dục Thanh thiếu niên và Nhi đồng,,left_only
+838,VHNT,Văn học Nghệ thuật,,left_only
+839,VHTT,Văn hóa Thông tin,,left_only
+840,VKS,Viện Kiểm sát,,left_only
+841,VKSND,Viện Kiểm sát Nhân dân,,left_only
+842,VKSNDTC,Viện Kiểm sát Nhân dân Tối cao,,left_only
+843,VL,Vật lý,,left_only
+844,VLTK,Võ Lâm Truyền Kỳ,,left_only
+845,VLXD,Vật liệu xây dựng,,left_only
+846,VN,Việt Nam,,left_only
+847,VNCC,Tổng Công ty Xi măng Việt Nam,,left_only
+848,VNM,Vinamilk,,left_only
+849,VP,Văn phòng,,left_only
+850,VPCP,Văn phòng chính phủ,,left_only
+851,VPĐD,Văn phòng đại diện,,left_only
+852,VQG,Vườn Quốc gia,,left_only
+853,VS,Vệ sinh,,left_only
+854,VSP,Xí nghiệp Liên doanh Vietsovpetro,,left_only
+856,VYSA,Hội Thanh niên Sinh viên Việt Nam tại Nhật Bản,,left_only
+857,WB,Ngân hàng thế giới,,left_only
+858,WTO,Tổ chức Thương mại thế giới,,left_only
+859,XD,Xây dựng,,left_only
+860,XDCB,xây dựng cơ bản,,left_only
+861,XĐGN,Xoá đói giảm nghèo,,left_only
+862,XDHK,Xăng dầu hàng không,,left_only
+863,XH,Xã hội,,left_only
+864,XHCN,Xã hội chủ nghĩa,,left_only
+865,XHH,xã hội hóa,,left_only
+866,XK,Xuất khẩu,,left_only
+867,XKLĐ,xuất khẩu lao động,,left_only
+868,XN,Xí nghiệp,,left_only
+869,XNK,Xuất nhập khẩu,,left_only
+870,XSKT,xổ số kiến thiết,,left_only
+871,XTTM,Xúc tiến thương mại,,left_only
+872,XX,Xét xử,,left_only
+873,YKVN,Y khoa Việt Nam,,left_only
+874,YTDP,Y tế Dự phòng,,left_only
+875,YTế,Y tế,,left_only
